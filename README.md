@@ -26,18 +26,13 @@
 - [📝 License](#license)
 
 
-# 📖<a name="about-project">Chess Tournament Website</a>
+# 📖<a name="about-project">Youtube Clone</a>
 
 
-***Building a responsive Chess tournament website using HTML/CSS Javascript from a bihance design template***
-
-[Click here for the website presentation video](https://www.loom.com/share/413fd20b5d954e378b9f109ffca7761c)
-
-<img width="1680" alt="Screenshot 2023-01-06 at 18 27 50" src="https://user-images.githubusercontent.com/97366651/211055086-8f05ef3b-d94a-400d-9915-909b475b494d.png">
+***Building a responsive Chess tournament website using HTML/CSS Javascript***
 
 
-
-## 🛠 Built With <a name="built-with">Figma, VSCode, BiHance and Github</a>
+## 🛠 Built With <a name="built-with">Figma, VSCode and Github</a>
 
 ### <a name="tech-stack">HTML/CSS, Javascript, Github and Figma</a>
 
@@ -45,7 +40,7 @@
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="https://reactjs.org/">HTML</a></li>
   </ul>
 </details>
 
@@ -77,7 +72,7 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [Live Demo Link](https://chaseknis.github.io/first_capstone_project/)
+- [Live Demo Link](https://chaseknis.github.io/youtube-clone-microverse/)
 
 
 
@@ -102,7 +97,7 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-gh repo clone Chaseknis/chaseknis.github.io
+gh repo clone Chaseknis/youtube-clone-microverse
 
 ### Install
 
@@ -111,7 +106,7 @@ To obtain a copy of this repository, clone it to your desired folder:
 Commands: 
 
 ```sh
-  gh repo clone Chaseknis/first_capstone_project
+  gh repo clone Chaseknis/youtube-clone-microverse
   cd capstone_project
   npm install -y
 ```
@@ -170,12 +165,8 @@ To run tests, run the following command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> I'll add the following section to the webpage.
+> No future features
 
-- [ ] **[work_section]()**
-- [ ] **[about_page]()**
-- [ ] **[partners_section]()**
-- [ ] **[footer_section]()**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -184,7 +175,7 @@ To run tests, run the following command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Chaseknis/first_capstone_project/tree/mobile_preview).
+Feel free to check the [issues page](https://github.com/Chaseknis/youtube-clone-microverse).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -199,12 +190,8 @@ If you like this project... Kindly leave a star ⭐
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse and my studying partners and [Cindy Shin](https://www.behance.net/adagio07) for the amazing UI design.
+I would like to thank Microverse
 
-Original design idea by [Cindy Shin in Behance](https://www.behance.net/adagio07)
-
-
-<img width="1680" alt="Screenshot 2023-01-06 at 18 35 26" src="https://user-images.githubusercontent.com/97366651/211056170-f5bab3a2-b7b5-4b2e-baed-c563469437dd.png">
 
 
 
